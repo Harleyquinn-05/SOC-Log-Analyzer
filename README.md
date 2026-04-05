@@ -55,10 +55,10 @@ Possible brute force attack on <username>
 
 Open terminal in project directory and run:
 
-```bash
-python3 detector.py
-📌 Example Output
-Possible brute force attack on user2
+```
+<img width="720" height="323" alt="flameshot gui" src="https://github.com/user-attachments/assets/18ac878d-fe28-4cb2-8f2e-6ba9bcfa7fc7" />
+
+
 
 
 👩‍💻 Author
