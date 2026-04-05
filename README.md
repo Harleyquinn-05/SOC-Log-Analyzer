@@ -36,6 +36,10 @@ SOC-Log-Analyzer/
 └── README.md
 
 
+<img width="720" height="323" alt="flameshot gui" src="https://github.com/user-attachments/assets/bd187bba-fdd1-4105-8f35-8c42a492a220" />
+
+
+
 ---
 
 ## 🚀 How It Works
@@ -56,11 +60,6 @@ Possible brute force attack on <username>
 Open terminal in project directory and run:
 
 ```
-<img width="720" height="323" alt="flameshot gui" src="https://github.com/user-attachments/assets/18ac878d-fe28-4cb2-8f2e-6ba9bcfa7fc7" />
-
-
-
-
 👩‍💻 Author
 
 Mahima Singh
