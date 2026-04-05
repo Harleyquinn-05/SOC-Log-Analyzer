@@ -36,10 +36,6 @@ SOC-Log-Analyzer/
 └── README.md
 
 
-<img width="720" height="323" alt="flameshot gui" src="https://github.com/user-attachments/assets/bd187bba-fdd1-4105-8f35-8c42a492a220" />
-
-
-
 ---
 
 ## 🚀 How It Works
@@ -47,7 +43,7 @@ SOC-Log-Analyzer/
 1. The script reads the `login_logs.txt` file.
 2. It filters lines containing `LOGIN FAILED`.
 3. Counts failed attempts per user.
-4. If failed attempts ≥ 5, it flags:
+4. If failed attempts ≥ 3, it flags:
 
 
 Possible brute force attack on <username>
@@ -58,7 +54,7 @@ Possible brute force attack on <username>
 ## ▶️ How to Run
 
 Open terminal in project directory and run:
-
+<img width="720" height="323" alt="flameshot gui" src="https://github.com/user-attachments/assets/bd187bba-fdd1-4105-8f35-8c42a492a220" />
 ```
 👩‍💻 Author
 
